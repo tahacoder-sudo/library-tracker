@@ -2,6 +2,8 @@
 A command-line program for tracking library books.
 
 ## Features
-(none yet)
+- List books: Print every book with its author and status.
 
 ## Contributors
+- Syed Irfan Raza Zaidi
+-
