@@ -2,6 +2,8 @@
 A command-line program for tracking library books.
 
 ## Features
-(none yet)
+- Add book: Ask for a title and author and store the book as available.
 
 ## Contributors
+- Taha
+-
