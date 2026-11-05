@@ -1,5 +1,6 @@
 # library.py
 # A simple command-line library tracker.
+#updated for code review
 books = {}  # title -> {"author": str, "available": bool}
 
 def show_menu():
